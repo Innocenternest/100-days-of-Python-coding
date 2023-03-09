@@ -1,1 +1,1 @@
-Beginner-Randominsation and Python Lists
+Beginner-Randominsation and Python List
